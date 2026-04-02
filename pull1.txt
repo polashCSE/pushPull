@@ -1,1 +1,2 @@
-This is pull file
+This is pull file.
+This PULL file is updated in remote repo.
