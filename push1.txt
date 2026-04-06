@@ -1,1 +1,2 @@
-This is PUSH file
+This is PUSH file.
+Changed in newly created branch.
